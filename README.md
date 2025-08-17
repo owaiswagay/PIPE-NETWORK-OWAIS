@@ -80,7 +80,7 @@ cargo install --path .
 pipe -h
 ```
 
-### Set-Up a New User
+### Set-Up a User
 
 ```
 pipe new-user <your_username>
@@ -140,7 +140,7 @@ pipe referral show
 
 ### Swap Sol (Devnet) to Pipe
 
-* Get Sol Devnet Faucte from [here](https://faucet.solana.com/)
+* Get Sol Devnet Faucet from [here](https://faucet.solana.com/)
 
 * Swap
 
