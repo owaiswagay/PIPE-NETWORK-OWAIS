@@ -202,6 +202,8 @@ pipe create-public-link <FILE_NAME>
 
 Done✔️
 
+---
+
 <pre>
 
 👉 Join TG for more Updates: https://telegram.me/cryptogg
