@@ -184,6 +184,15 @@ pipe create-public-link <FILE_NAME>
 <img width="1478" height="621" alt="Screenshot 2025-08-17 170416" src="https://github.com/user-attachments/assets/1beb726c-dabe-48a1-b79c-7c8e931f32c5" />
 
 
+
+### Check Token-Usage
+
+>You can get to know about the usage of the pipe devnet tokens, after uploading and Downloading Files:
+```
+pipe token-usage
+```
+
+
 ### Many CLI's Operations are there in pipe, So you can read and apply from pipe's official Repo: [Pipe_Repo](https://github.com/PipeNetwork/pipe)
 
 ---
