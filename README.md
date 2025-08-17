@@ -80,8 +80,6 @@ cargo install --path .
 pipe -h
 ```
 
----
-
 ### Set-Up a New User
 
 ```
@@ -89,6 +87,8 @@ pipe new-user <your_username>
 ```
 
 >Replace <your_username> with your:
+
+>Save `Solana Pubkey:` 
 
 ### Set-Up Your Password
 
@@ -98,3 +98,116 @@ pipe set-password
 
 >Enter a Strong PASS:
 
+
+### Save Your `Credentials`
+
+>Open the file and save all the credentials in it:
+
+```
+nano ~/.pipe-cli.json
+```
+
+---
+
+## Basic CLI's Operations
+
+### Referral Campaign
+
+>You'll earn up to 100 PIPE for every referral who swap at least 1 SOL DEVNET for PIPE
+
+<img width="830" height="293" alt="Screenshot 2025-08-16 164046" src="https://github.com/user-attachments/assets/226c59c0-b496-4feb-a2e0-9232335e09ee" />
+
+
+#### Enter the Refer Code:
+
+```
+pipe referral apply MAYANKGG-D4CJ
+```
+
+#### Get Your referral code:
+
+```
+pipe referral generate
+```
+
+#### Check your referral stats
+
+```
+pipe referral show
+```
+
+---
+
+### Swap Sol (Devnet) to Pipe
+
+* Get Sol Devnet Faucte from [here](https://faucet.solana.com/)
+
+* Swap
+
+```
+pipe  swap-sol-for-pipe <AMOUNT_SOL>
+```
+
+>Swap minimum 1sol to pipe
+
+---
+
+
+### Upload a File
+
+```
+pipe upload-file <FILE_PATH> <FILE_NAME>
+```
+
+* >Replace <FILE_PATH> & <FILE_NAME> with their actual: 
+
+* >Dont upload any `confidential` file (Wallet keys & personal docs)
+
+* >You can upload any videos or large file too:
+
+
+### Create Public Link
+
+>We will craete the public link of our uploaded file: 
+
+```
+pipe create-public-link <FILE_NAME>
+```
+
+* >Replace <FILE_NAME> which you have used earlier while uploading a file:
+
+<img width="1478" height="621" alt="Screenshot 2025-08-17 170416" src="https://github.com/user-attachments/assets/1beb726c-dabe-48a1-b79c-7c8e931f32c5" />
+
+
+### Many CLI's Operations are there in pipe, So you can read and apply from pipe's official Repo: [Pipe_Repo](https://github.com/PipeNetwork/pipe)
+
+---
+
+<div align="center">
+
+# Get 🔥Firestarter Role
+
+</div>
+
+
+### [Join the Pipe Dc](https://discord.gg/fhVwSe8j)
+
+## Role Requirement👇
+
+<img width="1705" height="497" alt="image" src="https://github.com/user-attachments/assets/629ba008-99e5-4e46-8c79-e9febc8c06e1" />
+
+### Upload Your File from: [Upload a File]
+
+### Get public link of your upload files from: [Create Public Link](https://github.com/Mayankgg01/Pipe-Firestarter-Storage-Node/main/README.md#create-public-link)
+
+Done✔️
+
+<pre>
+
+👉 Join TG for more Updates: https://telegram.me/cryptogg
+
+If U have any issue then open a issue on this repo or Dm me on TG~
+
+Thank U! 👨🏻‍💻    Happy Coding💗
+
+</pre>
