@@ -165,10 +165,15 @@ pipe upload-file <FILE_PATH> <FILE_NAME>
 
 * >You can upload any videos or large file too:
 
+* >For home path, use: 
+
+```
+~/Name_of_your_file
+```
 
 ### Create Public Link
 
->We will craete the public link of our uploaded file: 
+>We will create the public link of our uploaded file: 
 
 ```
 pipe create-public-link <FILE_NAME>
