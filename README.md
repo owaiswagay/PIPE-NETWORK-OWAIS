@@ -115,7 +115,8 @@ nano ~/.pipe-cli.json
 
 >You'll earn up to 100 PIPE for every referral who swap at least 1 SOL DEVNET for PIPE
 
-<img width="830" height="293" alt="Screenshot 2025-08-16 164046" src="https://github.com/user-attachments/assets/226c59c0-b496-4feb-a2e0-9232335e09ee" />
+<img width="564" height="375" alt="new repo" src="https://github.com/user-attachments/assets/bb8292bc-bc8c-4a98-a597-cd48737efe2e" />
+
 
 
 #### Enter the Refer Code:
