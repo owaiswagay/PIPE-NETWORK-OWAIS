@@ -121,7 +121,7 @@ nano ~/.pipe-cli.json
 #### Enter the Refer Code:
 
 ```
-pipe referral apply MAYANKGG-D4CJ
+pipe referral apply OWAIS-XQ2I
 ```
 
 #### Get Your referral code:
@@ -220,9 +220,7 @@ Done✔️
 
 <pre>
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
 
-If U have any issue then open a issue on this repo or Dm me on TG~
 
 Thank U! 👨🏻‍💻    Happy Coding💗
 
